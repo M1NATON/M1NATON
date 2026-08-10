@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="./assets/wordmark.png" width="820" alt="M1NATON"/>
-
-</div>
-
-<div align="center">
-
 <img src="./assets/terminal.svg" width="860" alt="m1naton@github: ~/waifu"/>
 
 </div>
